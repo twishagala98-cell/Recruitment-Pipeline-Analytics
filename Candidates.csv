@@ -1,0 +1,201 @@
+Candidate ID,Vacancy ID,Source,Application Date,Final Outcome
+C0001,V001,Internal Referral,2026-06-01,Rejected
+C0002,V002,LinkedIn,2026-07-08,Withdrawn
+C0003,V003,LinkedIn,2026-10-13,In Progress
+C0004,V004,Indeed,2026-05-14,Withdrawn
+C0005,V005,Reed,2026-07-02,Rejected
+C0006,V006,LinkedIn,2026-07-18,Hired
+C0007,V007,Bradford Council Jobs,2026-08-26,Rejected
+C0008,V008,Community Care,2026-05-28,Withdrawn
+C0009,V009,TribePad Careers Site,2026-08-30,Rejected
+C0010,V010,TribePad Careers Site,2026-07-07,Hired
+C0011,V011,TribePad Careers Site,2026-05-31,Withdrawn
+C0012,V012,Community Care,2026-08-06,Withdrawn
+C0013,V013,LinkedIn,2026-05-25,Rejected
+C0014,V014,TribePad Careers Site,2026-06-26,Hired
+C0015,V015,Indeed,2026-06-09,Rejected
+C0016,V016,Reed,2026-06-29,Rejected
+C0017,V017,Internal Referral,2026-07-27,Rejected
+C0018,V018,LinkedIn,2026-07-03,Withdrawn
+C0019,V019,Bradford Council Jobs,2026-07-19,Rejected
+C0020,V020,Bradford Council Jobs,2026-07-08,Rejected
+C0021,V021,TribePad Careers Site,2026-07-27,Rejected
+C0022,V022,TribePad Careers Site,2026-06-16,Rejected
+C0023,V023,Bradford Council Jobs,2026-07-01,Rejected
+C0024,V024,TribePad Careers Site,2026-07-14,Rejected
+C0025,V025,LinkedIn,2026-07-19,Hired
+C0026,V026,LinkedIn,2026-08-14,Rejected
+C0027,V027,Indeed,2026-07-30,Rejected
+C0028,V028,Bradford Council Jobs,2026-09-02,Rejected
+C0029,V029,Bradford Council Jobs,2026-06-08,Rejected
+C0030,V030,Internal Referral,2026-09-20,In Progress
+C0031,V031,Indeed,2026-08-24,Rejected
+C0032,V032,Community Care,2026-09-27,Rejected
+C0033,V033,TribePad Careers Site,2026-05-31,Rejected
+C0034,V034,Community Care,2026-09-16,In Progress
+C0035,V035,LinkedIn,2026-08-30,Rejected
+C0036,V036,Indeed,2026-09-23,Withdrawn
+C0037,V037,LinkedIn,2026-05-13,Hired
+C0038,V038,LinkedIn,2026-09-20,In Progress
+C0039,V039,TribePad Careers Site,2026-06-26,Rejected
+C0040,V040,TribePad Careers Site,2026-09-07,In Progress
+C0041,V007,TribePad Careers Site,2026-08-29,Withdrawn
+C0042,V012,TribePad Careers Site,2026-08-30,Rejected
+C0043,V022,Reed,2026-07-10,Withdrawn
+C0044,V007,Indeed,2026-08-30,Rejected
+C0045,V015,Indeed,2026-05-30,Hired
+C0046,V033,TribePad Careers Site,2026-06-12,Rejected
+C0047,V017,LinkedIn,2026-07-05,Rejected
+C0048,V023,Indeed,2026-07-06,Withdrawn
+C0049,V028,Bradford Council Jobs,2026-08-12,Rejected
+C0050,V013,Bradford Council Jobs,2026-05-25,Rejected
+C0051,V022,Indeed,2026-07-04,Rejected
+C0052,V020,Indeed,2026-07-04,Rejected
+C0053,V019,LinkedIn,2026-07-30,Hired
+C0054,V001,Indeed,2026-05-18,Rejected
+C0055,V038,TribePad Careers Site,2026-10-06,In Progress
+C0056,V031,Community Care,2026-09-07,Withdrawn
+C0057,V022,TribePad Careers Site,2026-06-17,Withdrawn
+C0058,V002,LinkedIn,2026-06-30,Rejected
+C0059,V005,Community Care,2026-07-15,Rejected
+C0060,V032,Community Care,2026-09-22,Rejected
+C0061,V001,Reed,2026-06-06,Withdrawn
+C0062,V034,Community Care,2026-09-02,Hired
+C0063,V036,Reed,2026-10-04,Rejected
+C0064,V033,TribePad Careers Site,2026-06-13,Withdrawn
+C0065,V018,Indeed,2026-07-25,Withdrawn
+C0066,V021,Community Care,2026-08-07,Rejected
+C0067,V014,Indeed,2026-06-05,Rejected
+C0068,V030,TribePad Careers Site,2026-09-30,In Progress
+C0069,V037,Bradford Council Jobs,2026-05-17,Rejected
+C0070,V020,LinkedIn,2026-07-07,Rejected
+C0071,V035,Indeed,2026-09-02,Rejected
+C0072,V002,Community Care,2026-07-11,Rejected
+C0073,V026,Community Care,2026-09-05,Rejected
+C0074,V002,Indeed,2026-07-11,Rejected
+C0075,V030,Indeed,2026-09-22,In Progress
+C0076,V027,Community Care,2026-07-30,Withdrawn
+C0077,V003,TribePad Careers Site,2026-10-13,In Progress
+C0078,V002,LinkedIn,2026-07-18,Rejected
+C0079,V014,Community Care,2026-06-17,Rejected
+C0080,V008,Indeed,2026-05-28,Withdrawn
+C0081,V025,Community Care,2026-07-12,Withdrawn
+C0082,V020,LinkedIn,2026-07-10,Rejected
+C0083,V003,Community Care,2026-09-30,Rejected
+C0084,V001,LinkedIn,2026-06-05,Rejected
+C0085,V028,Indeed,2026-08-23,Rejected
+C0086,V034,LinkedIn,2026-09-08,Rejected
+C0087,V028,Bradford Council Jobs,2026-09-07,Withdrawn
+C0088,V018,Community Care,2026-07-29,Rejected
+C0089,V022,Indeed,2026-06-15,Rejected
+C0090,V032,LinkedIn,2026-09-16,Rejected
+C0091,V018,Reed,2026-07-18,Hired
+C0092,V031,Indeed,2026-09-02,Rejected
+C0093,V026,LinkedIn,2026-09-04,Rejected
+C0094,V023,LinkedIn,2026-06-26,Withdrawn
+C0095,V020,Reed,2026-06-21,Rejected
+C0096,V012,LinkedIn,2026-08-08,Rejected
+C0097,V038,TribePad Careers Site,2026-10-11,In Progress
+C0098,V015,TribePad Careers Site,2026-06-03,Rejected
+C0099,V035,Community Care,2026-08-12,Rejected
+C0100,V009,Indeed,2026-09-08,Rejected
+C0101,V012,Internal Referral,2026-08-03,Rejected
+C0102,V008,TribePad Careers Site,2026-05-30,Hired
+C0103,V016,Community Care,2026-06-24,Rejected
+C0104,V034,Indeed,2026-08-31,Rejected
+C0105,V038,Reed,2026-09-30,Rejected
+C0106,V014,Community Care,2026-06-23,Rejected
+C0107,V011,LinkedIn,2026-06-05,Rejected
+C0108,V039,TribePad Careers Site,2026-06-15,Rejected
+C0109,V019,LinkedIn,2026-08-04,Rejected
+C0110,V013,LinkedIn,2026-05-27,Hired
+C0111,V037,LinkedIn,2026-05-14,Rejected
+C0112,V020,Indeed,2026-07-05,Rejected
+C0113,V039,Community Care,2026-06-01,Rejected
+C0114,V037,Indeed,2026-05-23,Withdrawn
+C0115,V003,Indeed,2026-10-13,In Progress
+C0116,V038,Indeed,2026-09-30,Rejected
+C0117,V022,Community Care,2026-06-25,Rejected
+C0118,V019,LinkedIn,2026-08-03,Withdrawn
+C0119,V021,LinkedIn,2026-07-18,Rejected
+C0120,V001,LinkedIn,2026-05-30,Rejected
+C0121,V029,LinkedIn,2026-07-02,Hired
+C0122,V002,LinkedIn,2026-07-19,Rejected
+C0123,V036,LinkedIn,2026-09-28,In Progress
+C0124,V008,LinkedIn,2026-05-24,Withdrawn
+C0125,V031,LinkedIn,2026-08-20,Rejected
+C0126,V009,Indeed,2026-09-15,In Progress
+C0127,V001,Reed,2026-05-18,Withdrawn
+C0128,V025,TribePad Careers Site,2026-07-14,Withdrawn
+C0129,V025,Indeed,2026-07-07,Rejected
+C0130,V010,Internal Referral,2026-07-12,Withdrawn
+C0131,V007,Internal Referral,2026-09-03,Withdrawn
+C0132,V010,Community Care,2026-06-29,Rejected
+C0133,V006,Community Care,2026-07-19,Rejected
+C0134,V035,Community Care,2026-08-20,Withdrawn
+C0135,V016,TribePad Careers Site,2026-07-11,Rejected
+C0136,V007,Community Care,2026-09-11,Rejected
+C0137,V002,TribePad Careers Site,2026-06-30,Rejected
+C0138,V023,Community Care,2026-06-24,Rejected
+C0139,V012,Community Care,2026-08-07,Rejected
+C0140,V025,TribePad Careers Site,2026-07-19,Rejected
+C0141,V017,Bradford Council Jobs,2026-07-14,Rejected
+C0142,V035,Community Care,2026-08-13,Hired
+C0143,V030,TribePad Careers Site,2026-10-14,In Progress
+C0144,V025,Indeed,2026-07-18,Rejected
+C0145,V019,Reed,2026-07-13,Withdrawn
+C0146,V004,Reed,2026-05-30,Withdrawn
+C0147,V015,Reed,2026-06-12,Rejected
+C0148,V009,Indeed,2026-09-08,In Progress
+C0149,V009,TribePad Careers Site,2026-08-21,Withdrawn
+C0150,V035,Internal Referral,2026-09-05,Withdrawn
+C0151,V031,Internal Referral,2026-09-07,Rejected
+C0152,V008,Bradford Council Jobs,2026-05-18,Withdrawn
+C0153,V036,Reed,2026-09-26,In Progress
+C0154,V017,Community Care,2026-07-18,Rejected
+C0155,V024,Bradford Council Jobs,2026-07-01,Rejected
+C0156,V021,Bradford Council Jobs,2026-07-29,Rejected
+C0157,V020,TribePad Careers Site,2026-07-03,Rejected
+C0158,V003,LinkedIn,2026-09-28,In Progress
+C0159,V025,LinkedIn,2026-07-14,Rejected
+C0160,V038,Community Care,2026-10-10,In Progress
+C0161,V018,TribePad Careers Site,2026-07-02,Rejected
+C0162,V024,Community Care,2026-07-01,Withdrawn
+C0163,V004,Internal Referral,2026-05-23,Rejected
+C0164,V006,Community Care,2026-07-13,Rejected
+C0165,V002,TribePad Careers Site,2026-06-30,Withdrawn
+C0166,V036,Reed,2026-09-21,Rejected
+C0167,V039,LinkedIn,2026-05-31,Rejected
+C0168,V012,Reed,2026-08-05,Rejected
+C0169,V016,TribePad Careers Site,2026-07-09,Rejected
+C0170,V004,Reed,2026-05-15,Withdrawn
+C0171,V033,Internal Referral,2026-06-18,Hired
+C0172,V034,LinkedIn,2026-08-28,Rejected
+C0173,V026,TribePad Careers Site,2026-08-26,Rejected
+C0174,V006,Community Care,2026-07-02,Rejected
+C0175,V036,Bradford Council Jobs,2026-10-07,Rejected
+C0176,V034,Community Care,2026-08-28,Rejected
+C0177,V036,Indeed,2026-10-08,In Progress
+C0178,V030,TribePad Careers Site,2026-09-29,Rejected
+C0179,V028,Bradford Council Jobs,2026-08-22,Rejected
+C0180,V005,Indeed,2026-07-03,Withdrawn
+C0181,V009,Internal Referral,2026-09-05,In Progress
+C0182,V028,LinkedIn,2026-09-08,Withdrawn
+C0183,V010,Internal Referral,2026-07-18,Rejected
+C0184,V023,TribePad Careers Site,2026-07-10,Rejected
+C0185,V028,Community Care,2026-09-08,Rejected
+C0186,V036,TribePad Careers Site,2026-09-15,Rejected
+C0187,V018,TribePad Careers Site,2026-07-23,Withdrawn
+C0188,V002,TribePad Careers Site,2026-07-01,Withdrawn
+C0189,V020,Bradford Council Jobs,2026-07-06,Rejected
+C0190,V039,Indeed,2026-06-02,Rejected
+C0191,V028,LinkedIn,2026-08-27,Rejected
+C0192,V023,TribePad Careers Site,2026-06-26,Hired
+C0193,V014,Indeed,2026-06-12,Withdrawn
+C0194,V008,LinkedIn,2026-05-04,Rejected
+C0195,V015,Indeed,2026-06-08,Rejected
+C0196,V003,LinkedIn,2026-10-02,In Progress
+C0197,V037,TribePad Careers Site,2026-05-17,Rejected
+C0198,V021,TribePad Careers Site,2026-07-15,Withdrawn
+C0199,V038,Indeed,2026-09-29,Rejected
+C0200,V022,LinkedIn,2026-07-09,Rejected
